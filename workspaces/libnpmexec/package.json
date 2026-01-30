@@ -52,7 +52,7 @@
   "devDependencies": {
     "@npmcli/eslint-config": "^5.0.1",
     "@npmcli/mock-registry": "^1.0.0",
-    "@npmcli/template-oss": "4.23.3",
+    "@npmcli/template-oss": "4.29.0",
     "bin-links": "^5.0.0",
     "chalk": "^5.2.0",
     "just-extend": "^6.2.0",
@@ -60,11 +60,11 @@
     "tap": "^16.3.8"
   },
   "dependencies": {
-    "@npmcli/arborist": "^8.0.0",
+    "@npmcli/arborist": "^9.0.0",
     "@npmcli/run-script": "^9.0.1",
     "ci-info": "^4.0.0",
     "npm-package-arg": "^12.0.0",
-    "pacote": "^19.0.0",
+    "pacote": "^21.0.1",
     "proc-log": "^5.0.0",
     "read": "^4.0.0",
     "read-package-json-fast": "^4.0.0",
